@@ -32,30 +32,30 @@
 	display:inline-block;
 }
 #img1{
-	background: url('img/sprite.png') 5px 2px;	
+	background: url('sprite.png') 5px 2px;	
 }
 #img1:hover{
-	 background: url('img/sprite.png') 5px -36px;
+	 background: url('sprite.png') 5px -36px;
 	}
 #img2{
-	background: url('img/sprite.png') -113px 4px;
+	background: url('sprite.png') -113px 4px;
 	
 }
 #img2:hover{
-		background:url('img/sprite.png') -113px -36px;
+		background:url('sprite.png') -113px -36px;
 	}
 #img3{
-	 background: url('img/sprite.png') -37px 3px;
+	 background: url('sprite.png') -37px 3px;
 	&:hover{
-    background: url('img/sprite.png') -37px -36px;
+    background: url('sprite.png') -37px -36px;
 	}
 }
 #img3:hover{
-    background: url('img/sprite.png') -37px -36px;
+    background: url('sprite.png') -37px -36px;
 	}
 #img4{
-	background: url('img/sprite.png') -75px 4px;
+	background: url('sprite.png') -75px 4px;
 }
 #img4:hover{
-		background: url('img/sprite.png') -75px -36px;
+		background: url('sprite.png') -75px -36px;
 	}
