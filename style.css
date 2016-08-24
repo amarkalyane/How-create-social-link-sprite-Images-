@@ -15,7 +15,6 @@
 			a
 			{
 				display: block;
-				border-radius: 50% !important;
 				border: 1px solid #5A5A5A;
 				padding: 0px 3px;
 				width: 45px;
@@ -33,7 +32,7 @@
 	transition:0.3s;
 }
 #img1{
-	background: url('sprite.png') 5px 2px;	
+	background: url('sprite.png') 7px 2px;	
 }
 #img1:hover{
 	 background: url('sprite.png') 5px -36px;
